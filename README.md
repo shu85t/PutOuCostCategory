@@ -1,5 +1,8 @@
 # AWS OU Cost Category Updater
 
+**This script is a sample implementation for the method described in the following article:**
+**\[title](url)**
+
 ## Overview
 
 This Python script automatically creates or updates an AWS Cost Explorer Cost Category based on the structure of your AWS Organizations Organizational Units (OUs). It generates category names reflecting the OU hierarchy (e.g., `Root`, `OU1`, `OU1-OU1A`) up to a specified depth, and assigns each account to its deepest associated category within that depth limit.
