@@ -33,8 +33,6 @@ This helps visualize and analyze costs according to your defined organizational 
 
 ### Command Line Execution
 
-Save the script as a Python file (e.g., `put_ou_cost_category.py`).
-
 ```bash
 python3 put_ou_cost_category.py <CostCategoryName> <EffectiveStartMonth> <Depth>
 ```
