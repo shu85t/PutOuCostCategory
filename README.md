@@ -1,7 +1,8 @@
 # AWS OU Cost Category Updater
 
 **This script is a sample implementation for the method described in the following article:**
-**\[title](url)**
+
+**[AWS Cost Categories with OU Structure](https://dev.to/shu85t/aws-cost-categories-with-ou-structure-61n)**
 
 ## Overview
 
